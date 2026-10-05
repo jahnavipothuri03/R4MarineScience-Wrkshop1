@@ -199,8 +199,3 @@ mass_compare_plot <- penguins |>
   theme_minimal()
 mass_compare_plot
 ```
-
-```{r}
-
-```
-
