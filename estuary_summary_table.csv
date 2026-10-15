@@ -1,0 +1,17 @@
+zone,scientific_name,mean_fish_count,sd_fish_count,mean_salinity,sd_salinity
+Downstream,Acanthopagrus spp.,2,1.51,27.97,NA
+Downstream,Lates calcarifer,1.6,1.4,27.97,NA
+Downstream,Lutjanus argentimaculatus,2,1.64,27.97,NA
+Downstream,Platycephalus spp.,2.1,0.96,27.97,NA
+Marine,Acanthopagrus spp.,2.33,1.88,34.02,NA
+Marine,Lates calcarifer,1.57,1.36,34.02,NA
+Marine,Lutjanus argentimaculatus,1.5,1.14,34.02,NA
+Marine,Platycephalus spp.,5.67,1.3,34.02,NA
+Middle,Acanthopagrus spp.,2.23,1.57,14.91,NA
+Middle,Lates calcarifer,2.2,1.32,14.91,NA
+Middle,Lutjanus argentimaculatus,1.97,1.13,14.91,NA
+Middle,Platycephalus spp.,1.97,1.45,14.91,NA
+Upstream,Acanthopagrus spp.,2.57,1.65,4.95,NA
+Upstream,Lates calcarifer,4.8,1.69,4.95,NA
+Upstream,Lutjanus argentimaculatus,1.9,1.16,4.95,NA
+Upstream,Platycephalus spp.,2.3,1.82,4.95,NA
